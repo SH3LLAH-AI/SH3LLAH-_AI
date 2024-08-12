@@ -18,9 +18,30 @@
 
 
 
+ <h1 align="center"> SH3LLAH_AI </h1> 
+<p align="center"> A simple WhatsApp bot with rich features. </p>
+
+ 
+<h3 align="center"> <a href="https://github.com/SH3LLAH-AI/-_AI">🍫 READMORE , ZVIZERE🍫</a></h3> 
+
+<h4 align="center"> ✔️ 24/7 working ,richishanda ✔️</h4> 
 
 
-<a href="https://david-session-3-f79y.onrender.com//">○ SCAN OR PAIR CODE HERE ●
+
+
+
+ 
+
+
+
+
+    
+   
+## Deployment Methods
+---
+1.  ***Get `SESSION ID` by [`SCANING QR`](https://david-session-3-f79y.onrender.com//) Or [`PARING CODE`](https://david-session-3-f79y.onrender.com//). Then `Go-to Whatapp>Three dots>Linked Devices`***
+ 
+ 
 
 
 
