@@ -21,3 +21,20 @@
 
 
 <a href="https://david-session-3-f79y.onrender.com//">○ SCAN OR PAIR CODE HERE ●
+
+
+
+
+
+<h2 align="center"> ⚠️ MR SHELLAH NOTE  </h2>
+
+   
+## 
+
+- *SH3LLAH_AI is not made by `WhatsApp Inc.` Sometimes or misusing the bot might `ban` your `WhatsApp account!`*
+- *In that case, I'm not responsible for banning your account.*
+- *Use Suhail-Md at your own risk by keeping this warning in mind.*
+
+
+
+## NOTE: SH3LLAH_AI SCRIPT IS NOT OPENLY ALLOWED TO USED IN ANY OF YOUR PROJECTS
